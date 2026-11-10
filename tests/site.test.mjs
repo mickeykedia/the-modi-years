@@ -11,7 +11,7 @@ test("homepage contains the action map and prototype warning", () => {
   assert.match(home, /The action map/);
   assert.match(home, /illustrative design data/);
   assert.match(home, /data-action-card/);
-  assert.match(home, /https:\/\/example\.github\.io\/modi-record\/og\.png/);
+  assert.match(home, /<meta property="og:image" content="https:\/\/[^\"]+\/og\.png">/);
   assert.doesNotMatch(home, /Editorial method/);
   assert.doesNotMatch(home, /Private editorial workflow/);
   assert.doesNotMatch(home, /Hermes/);
