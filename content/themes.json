@@ -1,0 +1,32 @@
+[
+  {
+    "id": "economy",
+    "label": "Economy",
+    "description": "Tax, monetary, industrial and macroeconomic policy.",
+    "order": 10
+  },
+  {
+    "id": "institutions",
+    "label": "Institutions",
+    "description": "Democratic accountability, federalism, courts and public institutions.",
+    "order": 20
+  },
+  {
+    "id": "welfare",
+    "label": "Welfare",
+    "description": "Public services, transfers, health, sanitation and social protection.",
+    "order": 30
+  },
+  {
+    "id": "rights",
+    "label": "Rights & society",
+    "description": "Civil liberties, equal citizenship and social policy.",
+    "order": 40
+  },
+  {
+    "id": "technology",
+    "label": "Technology",
+    "description": "Digital public infrastructure, data governance and state capacity.",
+    "order": 50
+  }
+]

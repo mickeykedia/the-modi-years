@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:modi-record:schema:action:1",
+  "title": "NDA Record action",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "slug", "title", "date", "theme", "tags", "significance", "status", "summary", "overview", "detail", "impact", "judgement", "sources", "changeId"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "title": { "type": "string", "minLength": 1 },
+    "date": { "type": "string", "format": "date" },
+    "theme": { "type": "string", "minLength": 1 },
+    "tags": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "significance": { "enum": ["small", "medium", "large"] },
+    "status": { "enum": ["draft", "reviewed", "disputed"] },
+    "summary": { "type": "string", "minLength": 1 },
+    "overview": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+    "detail": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+    "impact": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+    "judgement": {
+      "type": "object",
+      "required": ["score", "label", "rationale", "countercase", "confidence", "values", "assessedAt", "assessedBy"],
+      "properties": {
+        "score": { "enum": [-2, -1, 0, 1, 2] },
+        "label": { "type": "string" },
+        "rationale": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+        "countercase": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+        "confidence": { "enum": ["low", "medium", "high"] },
+        "values": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+        "assessedAt": { "type": "string", "format": "date" },
+        "assessedBy": { "type": "string" }
+      }
+    },
+    "sources": { "type": "array" },
+    "changeId": { "type": "string", "pattern": "^chg-" }
+  }
+}

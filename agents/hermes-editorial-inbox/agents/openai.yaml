@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hermes Editorial Inbox"
+  short_description: "Turn project emails into reviewable proposals"
+  default_prompt: "Use $hermes-editorial-inbox to process this email into a reviewable editorial proposal."

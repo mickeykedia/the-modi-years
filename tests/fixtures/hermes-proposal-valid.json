@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "project": "modi-record",
+  "request_id": "MR-0042",
+  "origin": "email",
+  "origin_agent": "hermes",
+  "origin_message_id": "mail-provider-message-42",
+  "received_at": "2026-11-09T18:30:00Z",
+  "skill_version": "1.0.0",
+  "request_type": "judgement_revision",
+  "target": "demonetisation-2016",
+  "status": "awaiting_review",
+  "request_summary": "Reconsider the score using a supplied report.",
+  "sender_assertions": [],
+  "proposed_changes": [],
+  "sources": [],
+  "open_questions": [],
+  "confidence": "medium",
+  "review_events": []
+}

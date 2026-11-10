@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "decision_id": "decision-2026-11-09-prototype-seed",
+  "decided_at": "2026-11-09T00:00:00-08:00",
+  "actor": "editor-placeholder",
+  "decision": "accepted_as_design_fixtures",
+  "affected_changes": [
+    "chg-2026-11-09-001",
+    "chg-2026-11-09-002",
+    "chg-2026-11-09-003",
+    "chg-2026-11-09-004",
+    "chg-2026-11-09-005",
+    "chg-2026-11-09-006",
+    "chg-2026-11-09-007",
+    "chg-2026-11-09-008"
+  ],
+  "public_summary": "Eight records were accepted only as visibly labelled design fixtures.",
+  "constraints": [
+    "No fixture is an approved editorial position.",
+    "No fixture may become reviewed without claim-level sources.",
+    "The later evidence phase may split, replace, rescore or remove any fixture."
+  ]
+}

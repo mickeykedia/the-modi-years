@@ -1,0 +1,225 @@
+[
+  {
+    "schemaVersion": 1,
+    "slug": "digital-public-infrastructure-expansion",
+    "title": "Digital public infrastructure expansion",
+    "date": "2016-04-01",
+    "theme": "technology",
+    "tags": ["UPI", "India Stack", "digital payments", "public infrastructure"],
+    "significance": "large",
+    "status": "draft",
+    "summary": "Public digital rails expanded access to payments and state services, alongside continuing concerns about exclusion, privacy and accountability.",
+    "overview": [
+      "This prototype entry groups a set of related digital public infrastructure initiatives. The final editorial record should decide whether these belong together or should be split into separately assessable actions.",
+      "The entry is intentionally incomplete: it demonstrates the page structure, not a finished historical claim."
+    ],
+    "detail": [
+      "The proposed record will distinguish the public infrastructure layer, the rules governing access, and subsequent implementation choices.",
+      "Each factual claim will need a direct source and a statement of what that source supports."
+    ],
+    "impact": [
+      "Demonstration impact: lower-friction digital payments and service delivery.",
+      "Demonstration trade-off: unequal access and risks arising from data concentration.",
+      "Evidence collection and claim-level verification are still pending."
+    ],
+    "judgement": {
+      "score": 2,
+      "label": "Strong public infrastructure with unresolved safeguards",
+      "rationale": [
+        "The illustrative score gives substantial weight to broad access, interoperability and public infrastructure that enables further innovation.",
+        "It is provisional because design quality cannot be judged independently of exclusion, privacy, redress and market-concentration outcomes."
+      ],
+      "countercase": [
+        "A strong opposing case would argue that rapid digitisation created coercive or exclusionary dependencies before privacy and accountability protections were mature."
+      ],
+      "confidence": "low",
+      "values": ["access", "state capacity", "privacy", "competition"],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "editor-placeholder"
+    },
+    "sources": [],
+    "changeId": "chg-2026-11-09-001"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "insolvency-and-bankruptcy-code",
+    "title": "Insolvency and Bankruptcy Code",
+    "date": "2016-05-28",
+    "theme": "economy",
+    "tags": ["bankruptcy", "banking", "credit", "IBC"],
+    "significance": "medium",
+    "status": "draft",
+    "summary": "A consolidated insolvency framework aimed to make resolution more time-bound, while implementation delays and recoveries complicate the result.",
+    "overview": ["This demonstration record shows how a legislative reform and its later implementation can be evaluated together without pretending that enactment alone proves impact."],
+    "detail": ["The final version should separate the statute’s institutional design from amendments, court decisions, capacity constraints and measured outcomes."],
+    "impact": ["Demonstration benefit: a clearer resolution framework.", "Demonstration limitation: delays and uneven outcomes.", "Quantitative outcome claims remain to be sourced."],
+    "judgement": {
+      "score": 1,
+      "label": "Directionally sound, unevenly realised",
+      "rationale": ["The illustrative judgement values a coherent resolution system but discounts the score for institutional capacity and implementation gaps."],
+      "countercase": ["The countercase is that measured recoveries, delays and litigation make the reform less successful than its formal design suggests."],
+      "confidence": "low",
+      "values": ["rule clarity", "economic efficiency", "institutional capacity"],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "editor-placeholder"
+    },
+    "sources": [],
+    "changeId": "chg-2026-11-09-002"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "swachh-bharat-mission",
+    "title": "Swachh Bharat Mission",
+    "date": "2014-10-02",
+    "theme": "welfare",
+    "tags": ["sanitation", "public health", "toilets", "welfare"],
+    "significance": "medium",
+    "status": "draft",
+    "summary": "A high-profile sanitation drive expanded infrastructure and public attention, with questions about usage, verification and labour conditions.",
+    "overview": ["This sample illustrates a programme whose outputs, outcomes and implementation harms should be evaluated separately."],
+    "detail": ["The final record should compare official targets and administrative data with independent survey and public-health evidence."],
+    "impact": ["Demonstration benefit: sanitation infrastructure and salience.", "Demonstration caveat: construction is not identical to sustained use.", "Worker safety and manual scavenging require explicit treatment."],
+    "judgement": {
+      "score": 1,
+      "label": "Valuable goal, qualified implementation",
+      "rationale": ["The provisional score values sanitation as a public-health priority while reserving judgement on durability, verification and implementation harms."],
+      "countercase": ["A critic may argue that headline targets and official verification overstate sustainable behavioural and public-health gains."],
+      "confidence": "low",
+      "values": ["public health", "dignity", "implementation quality"],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "editor-placeholder"
+    },
+    "sources": [],
+    "changeId": "chg-2026-11-09-003"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "demonetisation-2016",
+    "title": "Demonetisation",
+    "date": "2016-11-08",
+    "theme": "economy",
+    "tags": ["currency", "informal economy", "cash", "RBI"],
+    "significance": "large",
+    "status": "draft",
+    "summary": "High-denomination notes were abruptly withdrawn, imposing economy-wide transition costs while the stated aims and evidence base shifted over time.",
+    "overview": ["This sample demonstrates how to document an executive decision whose rationale, implementation and outcomes are contested."],
+    "detail": ["The final record should establish a dated sequence of official objectives, operational rules, measured effects and later official assessments."],
+    "impact": ["Demonstration concern: severe short-run disruption, especially in cash-dependent activity.", "Demonstration question: whether durable benefits justified the cost.", "All magnitude claims remain to be sourced and reviewed."],
+    "judgement": {
+      "score": -2,
+      "label": "Disproportionate disruption for weakly demonstrated gains",
+      "rationale": ["The illustrative score applies a high burden of proof to an abrupt, economy-wide intervention and gives particular weight to foreseeable harms borne by people with little ability to adapt."],
+      "countercase": ["The strongest countercase is that formalisation, tax compliance and digital-payment adoption produced longer-run benefits not captured by a narrow test of the initial objectives."],
+      "confidence": "low",
+      "values": ["proportionality", "predictability", "distributional impact"],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "editor-placeholder"
+    },
+    "sources": [],
+    "changeId": "chg-2026-11-09-004"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "electoral-bonds-scheme",
+    "title": "Electoral Bonds Scheme",
+    "date": "2018-01-02",
+    "theme": "institutions",
+    "tags": ["political finance", "transparency", "elections", "institutions"],
+    "significance": "large",
+    "status": "draft",
+    "summary": "A political-funding mechanism reduced public visibility into donor identities and raised fundamental questions about accountability and unequal access.",
+    "overview": ["This sample shows how an institutional action can be evaluated against explicit democratic values rather than only administrative efficiency."],
+    "detail": ["The final entry should distinguish the scheme’s enacted rules, disclosures available to different actors, litigation and its eventual legal disposition."],
+    "impact": ["Demonstration concern: reduced public transparency around political finance.", "Demonstration concern: asymmetric information and influence.", "The legal and empirical record still requires claim-level sourcing."],
+    "judgement": {
+      "score": -2,
+      "label": "A serious loss of democratic transparency",
+      "rationale": ["The illustrative judgement treats voters’ ability to scrutinise political finance as a core democratic safeguard and views asymmetric disclosure as especially damaging."],
+      "countercase": ["The countercase is that formal banking channels can reduce cash-based funding and protect donors from retaliation."],
+      "confidence": "low",
+      "values": ["transparency", "political equality", "accountability"],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "editor-placeholder"
+    },
+    "sources": [],
+    "changeId": "chg-2026-11-09-005"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "article-370-reorganisation",
+    "title": "Article 370 changes and J&K reorganisation",
+    "date": "2019-08-05",
+    "theme": "institutions",
+    "tags": ["federalism", "Jammu and Kashmir", "constitutional change", "rights"],
+    "significance": "large",
+    "status": "draft",
+    "summary": "The constitutional status and statehood of Jammu and Kashmir were changed under extraordinary security and political constraints.",
+    "overview": ["This sample demonstrates the need to assess a constitutional change, the process used to enact it and its human consequences as distinct questions."],
+    "detail": ["The final record should use precise legal language and a dated chronology of the constitutional, legislative, security and electoral developments."],
+    "impact": ["Demonstration concern: federal process and representative consent.", "Demonstration concern: restrictions on communication and political activity.", "Longer-run security, governance and rights outcomes require careful evidence."],
+    "judgement": {
+      "score": -1,
+      "label": "A contested end pursued through damaging means",
+      "rationale": ["The provisional score gives substantial weight to federalism, consent and civil liberty during constitutional change, independently of arguments about the prior arrangement."],
+      "countercase": ["The strongest countercase argues that fuller constitutional integration removed an anomalous arrangement and could improve governance, rights and development over time."],
+      "confidence": "low",
+      "values": ["federalism", "consent", "civil liberty", "security"],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "editor-placeholder"
+    },
+    "sources": [],
+    "changeId": "chg-2026-11-09-006"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "farm-laws-2020-and-repeal",
+    "title": "2020 farm laws and repeal",
+    "date": "2020-09-27",
+    "theme": "economy",
+    "tags": ["agriculture", "farmers", "markets", "consultation"],
+    "significance": "medium",
+    "status": "draft",
+    "summary": "Market-oriented agricultural laws were enacted rapidly and later repealed after sustained protest, exposing both reform needs and failures of consultation.",
+    "overview": ["This sample treats policy content, legislative process, protest response and repeal as one connected episode while allowing later separation into multiple records."],
+    "detail": ["The final entry should represent the stated case for reform, specific statutory changes, distributional risks and the decision-making process."],
+    "impact": ["Demonstration concern: inadequate consultation and trust.", "Demonstration question: whether the policy design addressed real market constraints.", "Demonstration outcome: repeal left the underlying reform problem unresolved."],
+    "judgement": {
+      "score": -1,
+      "label": "Reform case undermined by process and design",
+      "rationale": ["The illustrative score does not reject agricultural market reform; it penalises weak consultation, unresolved distributional risks and the political failure that culminated in repeal."],
+      "countercase": ["The countercase argues that entrenched interests made disruptive reform unavoidable and that the laws expanded farmer choice."],
+      "confidence": "low",
+      "values": ["participation", "livelihood security", "economic reform"],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "editor-placeholder"
+    },
+    "sources": [],
+    "changeId": "chg-2026-11-09-007"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "ayushman-bharat-pmjay",
+    "title": "Ayushman Bharat PM-JAY",
+    "date": "2018-09-23",
+    "theme": "welfare",
+    "tags": ["health", "insurance", "hospitals", "welfare"],
+    "significance": "medium",
+    "status": "draft",
+    "summary": "A large publicly funded hospitalisation scheme expanded financial protection while leaving questions about primary care, quality and uneven state capacity.",
+    "overview": ["This sample demonstrates how coverage, service quality, financial protection and opportunity cost should be assessed separately."],
+    "detail": ["The final entry should clarify eligibility, benefit design, state participation, provider incentives and measured household outcomes."],
+    "impact": ["Demonstration benefit: broader hospitalisation cover for eligible households.", "Demonstration limitation: insurance does not substitute for primary and preventive care.", "Outcome and fraud-control evidence remain to be reviewed."],
+    "judgement": {
+      "score": 1,
+      "label": "Meaningful protection with system-level limits",
+      "rationale": ["The provisional score values greater financial protection while recognising that insurance-led expansion can leave public-health capacity and quality gaps untouched."],
+      "countercase": ["A critical case argues that purchasing hospital care can divert attention and resources from stronger universal public provision."],
+      "confidence": "low",
+      "values": ["health access", "financial protection", "system capacity"],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "editor-placeholder"
+    },
+    "sources": [],
+    "changeId": "chg-2026-11-09-008"
+  }
+]

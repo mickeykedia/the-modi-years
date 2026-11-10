@@ -1,0 +1,23 @@
+[
+  {
+    "id": "term-1",
+    "label": "1st term",
+    "years": "2014–19",
+    "starts": "2014-05-26",
+    "ends": "2019-05-30"
+  },
+  {
+    "id": "term-2",
+    "label": "2nd term",
+    "years": "2019–24",
+    "starts": "2019-05-30",
+    "ends": "2024-06-09"
+  },
+  {
+    "id": "term-3",
+    "label": "3rd term",
+    "years": "2024–",
+    "starts": "2024-06-09",
+    "ends": "9999-12-31"
+  }
+]

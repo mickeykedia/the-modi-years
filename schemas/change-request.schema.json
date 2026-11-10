@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:modi-record:schema:change-request:1",
+  "title": "Modi record editorial change request",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version", "project", "request_id", "origin", "origin_agent",
+    "origin_message_id", "received_at", "skill_version", "request_type",
+    "target", "status", "request_summary", "sender_assertions",
+    "proposed_changes", "sources", "open_questions", "confidence", "review_events"
+  ],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "project": { "const": "modi-record" },
+    "request_id": { "type": "string", "pattern": "^MR-[0-9]{4,}$" },
+    "origin": { "enum": ["email", "codex", "hermes", "manual"] },
+    "origin_agent": { "type": ["string", "null"] },
+    "origin_message_id": { "type": ["string", "null"] },
+    "received_at": { "type": "string", "format": "date-time" },
+    "skill_version": { "type": ["string", "null"] },
+    "request_type": { "enum": ["new_action", "fact_update", "source_update", "judgement_revision", "theme_change", "research_request", "editorial_note"] },
+    "target": { "type": ["string", "null"] },
+    "status": { "enum": ["needs_clarification", "awaiting_review", "approved", "rejected", "superseded"] },
+    "request_summary": { "type": "string", "minLength": 1 },
+    "sender_assertions": { "type": "array" },
+    "proposed_changes": { "type": "array" },
+    "sources": { "type": "array" },
+    "open_questions": { "type": "array", "items": { "type": "string" } },
+    "confidence": { "enum": ["low", "medium", "high"] },
+    "review_events": { "type": "array" }
+  }
+}

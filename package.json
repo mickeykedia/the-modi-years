@@ -1,0 +1,15 @@
+{
+  "name": "modi-record",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "validate:content": "node scripts/validate-content.mjs",
+    "build": "npm run validate:content && node scripts/build-site.mjs",
+    "dev": "npm run build && node scripts/serve.mjs",
+    "test": "npm run build && node --test tests/site.test.mjs"
+  }
+}
