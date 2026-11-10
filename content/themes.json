@@ -1,5 +1,11 @@
 [
   {
+    "id": "uncategorized",
+    "label": "Awaiting taxonomy",
+    "description": "Newly researched actions not yet placed in the final thematic taxonomy.",
+    "order": 0
+  },
+  {
     "id": "economy",
     "label": "Economy",
     "description": "Tax, monetary, industrial and macroeconomic policy.",

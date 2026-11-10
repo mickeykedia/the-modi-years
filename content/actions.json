@@ -1,11 +1,470 @@
 [
   {
     "schemaVersion": 1,
+    "slug": "pradhan-mantri-jan-dhan-yojana",
+    "title": "Pradhan Mantri Jan-Dhan Yojana",
+    "date": "2014-08-28",
+    "theme": "uncategorized",
+    "tags": [
+      "banking",
+      "financial inclusion",
+      "welfare"
+    ],
+    "significance": "medium",
+    "status": "draft",
+    "summary": "A financial-inclusion programme centred on basic bank accounts, debit cards and access to formal financial services.",
+    "overview": [
+      "A financial-inclusion programme centred on basic bank accounts, debit cards and access to formal financial services.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Economic Survey 2023-24 — Social Sector",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2024-25/economicsurvey/doc/echapter.pdf"
+      }
+    ],
+    "changeId": "chg-2026-11-09-100"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "make-in-india",
+    "title": "Make in India",
+    "date": "2014-09-25",
+    "theme": "uncategorized",
+    "tags": [
+      "manufacturing",
+      "investment",
+      "industrial policy"
+    ],
+    "significance": "medium",
+    "status": "draft",
+    "summary": "A manufacturing and investment campaign followed by sectoral liberalisation and later production-linked incentives.",
+    "overview": [
+      "A manufacturing and investment campaign followed by sectoral liberalisation and later production-linked incentives.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Economic Survey 2022-23 — Industry and Infrastructure",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2023-24/economicsurvey/doc/echapter.pdf"
+      }
+    ],
+    "changeId": "chg-2026-11-09-101"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "swachh-bharat-mission",
+    "title": "Swachh Bharat Mission",
+    "date": "2014-10-02",
+    "theme": "welfare",
+    "tags": [
+      "sanitation",
+      "public health",
+      "toilets",
+      "welfare"
+    ],
+    "significance": "medium",
+    "status": "draft",
+    "summary": "A high-profile sanitation drive expanded infrastructure and public attention, with questions about usage, verification and labour conditions.",
+    "overview": [
+      "This sample illustrates a programme whose outputs, outcomes and implementation harms should be evaluated separately."
+    ],
+    "detail": [
+      "The final record should compare official targets and administrative data with independent survey and public-health evidence."
+    ],
+    "impact": [
+      "Demonstration benefit: sanitation infrastructure and salience.",
+      "Demonstration caveat: construction is not identical to sustained use.",
+      "Worker safety and manual scavenging require explicit treatment."
+    ],
+    "judgement": {
+      "score": 1,
+      "label": "Valuable goal, qualified implementation",
+      "rationale": [
+        "The provisional score values sanitation as a public-health priority while reserving judgement on durability, verification and implementation harms."
+      ],
+      "countercase": [
+        "A critic may argue that headline targets and official verification overstate sustainable behavioural and public-health gains."
+      ],
+      "confidence": "low",
+      "values": [
+        "public health",
+        "dignity",
+        "implementation quality"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "editor-placeholder"
+    },
+    "sources": [
+      {
+        "title": "Economic Survey 2023-24 — Social Sector",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2024-25/economicsurvey/doc/echapter.pdf"
+      }
+    ],
+    "changeId": "chg-2026-11-09-003"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "land-acquisition-amendment-attempt",
+    "title": "Land acquisition amendment ordinances and withdrawal",
+    "date": "2014-12-31",
+    "theme": "uncategorized",
+    "tags": [
+      "land",
+      "ordinance",
+      "legislative process"
+    ],
+    "significance": "medium",
+    "status": "draft",
+    "summary": "The government sought to amend the 2013 land-acquisition law through ordinances and a Bill, then allowed the ordinances to lapse after opposition.",
+    "overview": [
+      "The government sought to amend the 2013 land-acquisition law through ordinances and a Bill, then allowed the ordinances to lapse after opposition.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Bills Track",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative tracker",
+        "url": "https://prsindia.org/billtrack"
+      }
+    ],
+    "changeId": "chg-2026-11-09-103"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "niti-aayog-replaces-planning-commission",
+    "title": "NITI Aayog replaces the Planning Commission",
+    "date": "2015-01-01",
+    "theme": "uncategorized",
+    "tags": [
+      "governance",
+      "federalism",
+      "planning"
+    ],
+    "significance": "medium",
+    "status": "draft",
+    "summary": "The Union government replaced the Planning Commission with a policy think tank and intergovernmental coordination body.",
+    "overview": [
+      "The Union government replaced the Planning Commission with a policy think tank and intergovernmental coordination body.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Major reforms since 2014",
+        "publisher": "ThePrint",
+        "sourceType": "reported overview",
+        "url": "https://theprint.in/india/article-370-farm-laws-nep-modi-govt-plans-booklet-to-showcase-major-reforms-since-2014/575116/"
+      }
+    ],
+    "changeId": "chg-2026-11-09-102"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "coal-mines-auction-framework",
+    "title": "Coal mines auction framework",
+    "date": "2015-03-30",
+    "theme": "uncategorized",
+    "tags": [
+      "coal",
+      "auctions",
+      "natural resources"
+    ],
+    "significance": "medium",
+    "status": "draft",
+    "summary": "Legislation created a framework for reallocating coal mines after earlier allocations were cancelled by the Supreme Court.",
+    "overview": [
+      "Legislation created a framework for reallocating coal mines after earlier allocations were cancelled by the Supreme Court.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Bills Track",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative tracker",
+        "url": "https://prsindia.org/billtrack"
+      }
+    ],
+    "changeId": "chg-2026-11-09-104"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "smart-cities-and-amrut",
+    "title": "Smart Cities Mission and AMRUT",
+    "date": "2015-06-25",
+    "theme": "uncategorized",
+    "tags": [
+      "cities",
+      "water",
+      "urban infrastructure"
+    ],
+    "significance": "medium",
+    "status": "draft",
+    "summary": "Two urban programmes funded city projects, water and sewerage networks, public spaces and municipal infrastructure.",
+    "overview": [
+      "Two urban programmes funded city projects, water and sewerage networks, public spaces and municipal infrastructure.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Economic Survey 2023-24 — Infrastructure",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2024-25/economicsurvey/doc/eschapter/echap12.pdf"
+      }
+    ],
+    "changeId": "chg-2026-11-09-106"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "digital-india-programme",
+    "title": "Digital India programme",
+    "date": "2015-07-01",
+    "theme": "uncategorized",
+    "tags": [
+      "digital government",
+      "connectivity",
+      "public infrastructure"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "An umbrella programme expanded digital government services, connectivity and shared public digital infrastructure.",
+    "overview": [
+      "An umbrella programme expanded digital government services, connectivity and shared public digital infrastructure.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Economic Survey 2023-24 — Social Sector",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2024-25/economicsurvey/doc/echapter.pdf"
+      }
+    ],
+    "changeId": "chg-2026-11-09-105"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "real-estate-regulation-act",
+    "title": "Real Estate (Regulation and Development) Act",
+    "date": "2016-03-25",
+    "theme": "uncategorized",
+    "tags": [
+      "housing",
+      "consumer protection",
+      "regulation"
+    ],
+    "significance": "medium",
+    "status": "draft",
+    "summary": "RERA established project registration, disclosure and state regulatory mechanisms for the real-estate sector.",
+    "overview": [
+      "RERA established project registration, disclosure and state regulatory mechanisms for the real-estate sector.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Bills Track",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative tracker",
+        "url": "https://prsindia.org/billtrack"
+      }
+    ],
+    "changeId": "chg-2026-11-09-107"
+  },
+  {
+    "schemaVersion": 1,
     "slug": "digital-public-infrastructure-expansion",
     "title": "Digital public infrastructure expansion",
     "date": "2016-04-01",
     "theme": "technology",
-    "tags": ["UPI", "India Stack", "digital payments", "public infrastructure"],
+    "tags": [
+      "UPI",
+      "India Stack",
+      "digital payments",
+      "public infrastructure"
+    ],
     "significance": "large",
     "status": "draft",
     "summary": "Public digital rails expanded access to payments and state services, alongside continuing concerns about exclusion, privacy and accountability.",
@@ -33,12 +492,74 @@
         "A strong opposing case would argue that rapid digitisation created coercive or exclusionary dependencies before privacy and accountability protections were mature."
       ],
       "confidence": "low",
-      "values": ["access", "state capacity", "privacy", "competition"],
+      "values": [
+        "access",
+        "state capacity",
+        "privacy",
+        "competition"
+      ],
       "assessedAt": "2026-11-09",
       "assessedBy": "editor-placeholder"
     },
-    "sources": [],
+    "sources": [
+      {
+        "title": "Economic Survey 2023-24 — Social Sector",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2024-25/economicsurvey/doc/echapter.pdf"
+      }
+    ],
     "changeId": "chg-2026-11-09-001"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "pradhan-mantri-ujjwala-yojana",
+    "title": "Pradhan Mantri Ujjwala Yojana",
+    "date": "2016-05-01",
+    "theme": "uncategorized",
+    "tags": [
+      "LPG",
+      "women",
+      "clean cooking"
+    ],
+    "significance": "medium",
+    "status": "draft",
+    "summary": "The programme subsidised LPG connections for women in low-income households; refill affordability is a separate outcome question.",
+    "overview": [
+      "The programme subsidised LPG connections for women in low-income households; refill affordability is a separate outcome question.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Economic Survey 2023-24 — Social Sector",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2024-25/economicsurvey/doc/echapter.pdf"
+      }
+    ],
+    "changeId": "chg-2026-11-09-108"
   },
   {
     "schemaVersion": 1,
@@ -46,51 +567,109 @@
     "title": "Insolvency and Bankruptcy Code",
     "date": "2016-05-28",
     "theme": "economy",
-    "tags": ["bankruptcy", "banking", "credit", "IBC"],
+    "tags": [
+      "bankruptcy",
+      "banking",
+      "credit",
+      "IBC"
+    ],
     "significance": "medium",
     "status": "draft",
     "summary": "A consolidated insolvency framework aimed to make resolution more time-bound, while implementation delays and recoveries complicate the result.",
-    "overview": ["This demonstration record shows how a legislative reform and its later implementation can be evaluated together without pretending that enactment alone proves impact."],
-    "detail": ["The final version should separate the statute’s institutional design from amendments, court decisions, capacity constraints and measured outcomes."],
-    "impact": ["Demonstration benefit: a clearer resolution framework.", "Demonstration limitation: delays and uneven outcomes.", "Quantitative outcome claims remain to be sourced."],
+    "overview": [
+      "This demonstration record shows how a legislative reform and its later implementation can be evaluated together without pretending that enactment alone proves impact."
+    ],
+    "detail": [
+      "The final version should separate the statute’s institutional design from amendments, court decisions, capacity constraints and measured outcomes."
+    ],
+    "impact": [
+      "Demonstration benefit: a clearer resolution framework.",
+      "Demonstration limitation: delays and uneven outcomes.",
+      "Quantitative outcome claims remain to be sourced."
+    ],
     "judgement": {
       "score": 1,
       "label": "Directionally sound, unevenly realised",
-      "rationale": ["The illustrative judgement values a coherent resolution system but discounts the score for institutional capacity and implementation gaps."],
-      "countercase": ["The countercase is that measured recoveries, delays and litigation make the reform less successful than its formal design suggests."],
+      "rationale": [
+        "The illustrative judgement values a coherent resolution system but discounts the score for institutional capacity and implementation gaps."
+      ],
+      "countercase": [
+        "The countercase is that measured recoveries, delays and litigation make the reform less successful than its formal design suggests."
+      ],
       "confidence": "low",
-      "values": ["rule clarity", "economic efficiency", "institutional capacity"],
+      "values": [
+        "rule clarity",
+        "economic efficiency",
+        "institutional capacity"
+      ],
       "assessedAt": "2026-11-09",
       "assessedBy": "editor-placeholder"
     },
-    "sources": [],
+    "sources": [
+      {
+        "title": "Bills Track",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative tracker",
+        "url": "https://prsindia.org/billtrack"
+      },
+      {
+        "title": "Economic Survey 2022-23 — Industry and Infrastructure",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2023-24/economicsurvey/doc/echapter.pdf"
+      }
+    ],
     "changeId": "chg-2026-11-09-002"
   },
   {
     "schemaVersion": 1,
-    "slug": "swachh-bharat-mission",
-    "title": "Swachh Bharat Mission",
-    "date": "2014-10-02",
-    "theme": "welfare",
-    "tags": ["sanitation", "public health", "toilets", "welfare"],
+    "slug": "udan-regional-connectivity",
+    "title": "UDAN regional air-connectivity scheme",
+    "date": "2016-10-21",
+    "theme": "uncategorized",
+    "tags": [
+      "aviation",
+      "regional connectivity",
+      "infrastructure"
+    ],
     "significance": "medium",
     "status": "draft",
-    "summary": "A high-profile sanitation drive expanded infrastructure and public attention, with questions about usage, verification and labour conditions.",
-    "overview": ["This sample illustrates a programme whose outputs, outcomes and implementation harms should be evaluated separately."],
-    "detail": ["The final record should compare official targets and administrative data with independent survey and public-health evidence."],
-    "impact": ["Demonstration benefit: sanitation infrastructure and salience.", "Demonstration caveat: construction is not identical to sustained use.", "Worker safety and manual scavenging require explicit treatment."],
+    "summary": "The scheme used route awards and viability-gap support to connect unserved and underserved airports.",
+    "overview": [
+      "The scheme used route awards and viability-gap support to connect unserved and underserved airports.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
     "judgement": {
-      "score": 1,
-      "label": "Valuable goal, qualified implementation",
-      "rationale": ["The provisional score values sanitation as a public-health priority while reserving judgement on durability, verification and implementation harms."],
-      "countercase": ["A critic may argue that headline targets and official verification overstate sustainable behavioural and public-health gains."],
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
       "confidence": "low",
-      "values": ["public health", "dignity", "implementation quality"],
+      "values": [
+        "research pending"
+      ],
       "assessedAt": "2026-11-09",
-      "assessedBy": "editor-placeholder"
+      "assessedBy": "research-inventory"
     },
-    "sources": [],
-    "changeId": "chg-2026-11-09-003"
+    "sources": [
+      {
+        "title": "Economic Survey 2023-24 — Infrastructure",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2024-25/economicsurvey/doc/eschapter/echap12.pdf"
+      }
+    ],
+    "changeId": "chg-2026-11-09-110"
   },
   {
     "schemaVersion": 1,
@@ -98,25 +677,159 @@
     "title": "Demonetisation",
     "date": "2016-11-08",
     "theme": "economy",
-    "tags": ["currency", "informal economy", "cash", "RBI"],
+    "tags": [
+      "currency",
+      "informal economy",
+      "cash",
+      "RBI"
+    ],
     "significance": "large",
     "status": "draft",
     "summary": "High-denomination notes were abruptly withdrawn, imposing economy-wide transition costs while the stated aims and evidence base shifted over time.",
-    "overview": ["This sample demonstrates how to document an executive decision whose rationale, implementation and outcomes are contested."],
-    "detail": ["The final record should establish a dated sequence of official objectives, operational rules, measured effects and later official assessments."],
-    "impact": ["Demonstration concern: severe short-run disruption, especially in cash-dependent activity.", "Demonstration question: whether durable benefits justified the cost.", "All magnitude claims remain to be sourced and reviewed."],
+    "overview": [
+      "This sample demonstrates how to document an executive decision whose rationale, implementation and outcomes are contested."
+    ],
+    "detail": [
+      "The final record should establish a dated sequence of official objectives, operational rules, measured effects and later official assessments."
+    ],
+    "impact": [
+      "Demonstration concern: severe short-run disruption, especially in cash-dependent activity.",
+      "Demonstration question: whether durable benefits justified the cost.",
+      "All magnitude claims remain to be sourced and reviewed."
+    ],
     "judgement": {
       "score": -2,
       "label": "Disproportionate disruption for weakly demonstrated gains",
-      "rationale": ["The illustrative score applies a high burden of proof to an abrupt, economy-wide intervention and gives particular weight to foreseeable harms borne by people with little ability to adapt."],
-      "countercase": ["The strongest countercase is that formalisation, tax compliance and digital-payment adoption produced longer-run benefits not captured by a narrow test of the initial objectives."],
+      "rationale": [
+        "The illustrative score applies a high burden of proof to an abrupt, economy-wide intervention and gives particular weight to foreseeable harms borne by people with little ability to adapt."
+      ],
+      "countercase": [
+        "The strongest countercase is that formalisation, tax compliance and digital-payment adoption produced longer-run benefits not captured by a narrow test of the initial objectives."
+      ],
       "confidence": "low",
-      "values": ["proportionality", "predictability", "distributional impact"],
+      "values": [
+        "proportionality",
+        "predictability",
+        "distributional impact"
+      ],
       "assessedAt": "2026-11-09",
       "assessedBy": "editor-placeholder"
     },
-    "sources": [],
+    "sources": [
+      {
+        "title": "Bills Track",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative tracker",
+        "url": "https://prsindia.org/billtrack"
+      }
+    ],
     "changeId": "chg-2026-11-09-004"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "goods-and-services-tax",
+    "title": "Goods and Services Tax",
+    "date": "2017-07-01",
+    "theme": "uncategorized",
+    "tags": [
+      "GST",
+      "tax",
+      "federalism"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "The constitutional and legislative package replaced multiple indirect taxes with a destination-based GST administered jointly by the Union and states.",
+    "overview": [
+      "The constitutional and legislative package replaced multiple indirect taxes with a destination-based GST administered jointly by the Union and states.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Bills Track",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative tracker",
+        "url": "https://prsindia.org/billtrack"
+      },
+      {
+        "title": "Economic Survey 2022-23 — Industry and Infrastructure",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2023-24/economicsurvey/doc/echapter.pdf"
+      }
+    ],
+    "changeId": "chg-2026-11-09-109"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "bharatmala-and-sagarmala",
+    "title": "Bharatmala and Sagarmala infrastructure programmes",
+    "date": "2017-10-24",
+    "theme": "uncategorized",
+    "tags": [
+      "roads",
+      "ports",
+      "logistics"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "Road-corridor and port-led development programmes reorganised central investment in highways, ports and logistics links.",
+    "overview": [
+      "Road-corridor and port-led development programmes reorganised central investment in highways, ports and logistics links.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Economic Survey 2023-24 — Infrastructure",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2024-25/economicsurvey/doc/eschapter/echap12.pdf"
+      }
+    ],
+    "changeId": "chg-2026-11-09-111"
   },
   {
     "schemaVersion": 1,
@@ -124,77 +837,53 @@
     "title": "Electoral Bonds Scheme",
     "date": "2018-01-02",
     "theme": "institutions",
-    "tags": ["political finance", "transparency", "elections", "institutions"],
+    "tags": [
+      "political finance",
+      "transparency",
+      "elections",
+      "institutions"
+    ],
     "significance": "large",
     "status": "draft",
     "summary": "A political-funding mechanism reduced public visibility into donor identities and raised fundamental questions about accountability and unequal access.",
-    "overview": ["This sample shows how an institutional action can be evaluated against explicit democratic values rather than only administrative efficiency."],
-    "detail": ["The final entry should distinguish the scheme’s enacted rules, disclosures available to different actors, litigation and its eventual legal disposition."],
-    "impact": ["Demonstration concern: reduced public transparency around political finance.", "Demonstration concern: asymmetric information and influence.", "The legal and empirical record still requires claim-level sourcing."],
+    "overview": [
+      "This sample shows how an institutional action can be evaluated against explicit democratic values rather than only administrative efficiency."
+    ],
+    "detail": [
+      "The final entry should distinguish the scheme’s enacted rules, disclosures available to different actors, litigation and its eventual legal disposition."
+    ],
+    "impact": [
+      "Demonstration concern: reduced public transparency around political finance.",
+      "Demonstration concern: asymmetric information and influence.",
+      "The legal and empirical record still requires claim-level sourcing."
+    ],
     "judgement": {
       "score": -2,
       "label": "A serious loss of democratic transparency",
-      "rationale": ["The illustrative judgement treats voters’ ability to scrutinise political finance as a core democratic safeguard and views asymmetric disclosure as especially damaging."],
-      "countercase": ["The countercase is that formal banking channels can reduce cash-based funding and protect donors from retaliation."],
+      "rationale": [
+        "The illustrative judgement treats voters’ ability to scrutinise political finance as a core democratic safeguard and views asymmetric disclosure as especially damaging."
+      ],
+      "countercase": [
+        "The countercase is that formal banking channels can reduce cash-based funding and protect donors from retaliation."
+      ],
       "confidence": "low",
-      "values": ["transparency", "political equality", "accountability"],
+      "values": [
+        "transparency",
+        "political equality",
+        "accountability"
+      ],
       "assessedAt": "2026-11-09",
       "assessedBy": "editor-placeholder"
     },
-    "sources": [],
+    "sources": [
+      {
+        "title": "Bills Track",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative tracker",
+        "url": "https://prsindia.org/billtrack"
+      }
+    ],
     "changeId": "chg-2026-11-09-005"
-  },
-  {
-    "schemaVersion": 1,
-    "slug": "article-370-reorganisation",
-    "title": "Article 370 changes and J&K reorganisation",
-    "date": "2019-08-05",
-    "theme": "institutions",
-    "tags": ["federalism", "Jammu and Kashmir", "constitutional change", "rights"],
-    "significance": "large",
-    "status": "draft",
-    "summary": "The constitutional status and statehood of Jammu and Kashmir were changed under extraordinary security and political constraints.",
-    "overview": ["This sample demonstrates the need to assess a constitutional change, the process used to enact it and its human consequences as distinct questions."],
-    "detail": ["The final record should use precise legal language and a dated chronology of the constitutional, legislative, security and electoral developments."],
-    "impact": ["Demonstration concern: federal process and representative consent.", "Demonstration concern: restrictions on communication and political activity.", "Longer-run security, governance and rights outcomes require careful evidence."],
-    "judgement": {
-      "score": -1,
-      "label": "A contested end pursued through damaging means",
-      "rationale": ["The provisional score gives substantial weight to federalism, consent and civil liberty during constitutional change, independently of arguments about the prior arrangement."],
-      "countercase": ["The strongest countercase argues that fuller constitutional integration removed an anomalous arrangement and could improve governance, rights and development over time."],
-      "confidence": "low",
-      "values": ["federalism", "consent", "civil liberty", "security"],
-      "assessedAt": "2026-11-09",
-      "assessedBy": "editor-placeholder"
-    },
-    "sources": [],
-    "changeId": "chg-2026-11-09-006"
-  },
-  {
-    "schemaVersion": 1,
-    "slug": "farm-laws-2020-and-repeal",
-    "title": "2020 farm laws and repeal",
-    "date": "2020-09-27",
-    "theme": "economy",
-    "tags": ["agriculture", "farmers", "markets", "consultation"],
-    "significance": "medium",
-    "status": "draft",
-    "summary": "Market-oriented agricultural laws were enacted rapidly and later repealed after sustained protest, exposing both reform needs and failures of consultation.",
-    "overview": ["This sample treats policy content, legislative process, protest response and repeal as one connected episode while allowing later separation into multiple records."],
-    "detail": ["The final entry should represent the stated case for reform, specific statutory changes, distributional risks and the decision-making process."],
-    "impact": ["Demonstration concern: inadequate consultation and trust.", "Demonstration question: whether the policy design addressed real market constraints.", "Demonstration outcome: repeal left the underlying reform problem unresolved."],
-    "judgement": {
-      "score": -1,
-      "label": "Reform case undermined by process and design",
-      "rationale": ["The illustrative score does not reject agricultural market reform; it penalises weak consultation, unresolved distributional risks and the political failure that culminated in repeal."],
-      "countercase": ["The countercase argues that entrenched interests made disruptive reform unavoidable and that the laws expanded farmer choice."],
-      "confidence": "low",
-      "values": ["participation", "livelihood security", "economic reform"],
-      "assessedAt": "2026-11-09",
-      "assessedBy": "editor-placeholder"
-    },
-    "sources": [],
-    "changeId": "chg-2026-11-09-007"
   },
   {
     "schemaVersion": 1,
@@ -202,24 +891,1227 @@
     "title": "Ayushman Bharat PM-JAY",
     "date": "2018-09-23",
     "theme": "welfare",
-    "tags": ["health", "insurance", "hospitals", "welfare"],
+    "tags": [
+      "health",
+      "insurance",
+      "hospitals",
+      "welfare"
+    ],
     "significance": "medium",
     "status": "draft",
     "summary": "A large publicly funded hospitalisation scheme expanded financial protection while leaving questions about primary care, quality and uneven state capacity.",
-    "overview": ["This sample demonstrates how coverage, service quality, financial protection and opportunity cost should be assessed separately."],
-    "detail": ["The final entry should clarify eligibility, benefit design, state participation, provider incentives and measured household outcomes."],
-    "impact": ["Demonstration benefit: broader hospitalisation cover for eligible households.", "Demonstration limitation: insurance does not substitute for primary and preventive care.", "Outcome and fraud-control evidence remain to be reviewed."],
+    "overview": [
+      "This sample demonstrates how coverage, service quality, financial protection and opportunity cost should be assessed separately."
+    ],
+    "detail": [
+      "The final entry should clarify eligibility, benefit design, state participation, provider incentives and measured household outcomes."
+    ],
+    "impact": [
+      "Demonstration benefit: broader hospitalisation cover for eligible households.",
+      "Demonstration limitation: insurance does not substitute for primary and preventive care.",
+      "Outcome and fraud-control evidence remain to be reviewed."
+    ],
     "judgement": {
       "score": 1,
       "label": "Meaningful protection with system-level limits",
-      "rationale": ["The provisional score values greater financial protection while recognising that insurance-led expansion can leave public-health capacity and quality gaps untouched."],
-      "countercase": ["A critical case argues that purchasing hospital care can divert attention and resources from stronger universal public provision."],
+      "rationale": [
+        "The provisional score values greater financial protection while recognising that insurance-led expansion can leave public-health capacity and quality gaps untouched."
+      ],
+      "countercase": [
+        "A critical case argues that purchasing hospital care can divert attention and resources from stronger universal public provision."
+      ],
       "confidence": "low",
-      "values": ["health access", "financial protection", "system capacity"],
+      "values": [
+        "health access",
+        "financial protection",
+        "system capacity"
+      ],
       "assessedAt": "2026-11-09",
       "assessedBy": "editor-placeholder"
     },
-    "sources": [],
+    "sources": [
+      {
+        "title": "Economic Survey 2023-24 — Social Sector",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2024-25/economicsurvey/doc/echapter.pdf"
+      }
+    ],
     "changeId": "chg-2026-11-09-008"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "ews-reservation",
+    "title": "Ten per cent reservation for economically weaker sections",
+    "date": "2019-01-12",
+    "theme": "uncategorized",
+    "tags": [
+      "reservation",
+      "constitution",
+      "equality"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "The 103rd Constitutional Amendment enabled up to ten per cent reservation for economically weaker sections outside existing reserved categories.",
+    "overview": [
+      "The 103rd Constitutional Amendment enabled up to ten per cent reservation for economically weaker sections outside existing reserved categories.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Bills Track",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative tracker",
+        "url": "https://prsindia.org/billtrack"
+      }
+    ],
+    "changeId": "chg-2026-11-09-113"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "pm-kisan",
+    "title": "PM-KISAN income support",
+    "date": "2019-02-24",
+    "theme": "uncategorized",
+    "tags": [
+      "farmers",
+      "cash transfer",
+      "agriculture"
+    ],
+    "significance": "medium",
+    "status": "draft",
+    "summary": "The Union government introduced a direct annual cash transfer to eligible farmer families, later broadening eligibility.",
+    "overview": [
+      "The Union government introduced a direct annual cash transfer to eligible farmer families, later broadening eligibility.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Economic Survey 2023-24 — Social Sector",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2024-25/economicsurvey/doc/echapter.pdf"
+      }
+    ],
+    "changeId": "chg-2026-11-09-112"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "article-370-reorganisation",
+    "title": "Article 370 changes and J&K reorganisation",
+    "date": "2019-08-05",
+    "theme": "institutions",
+    "tags": [
+      "federalism",
+      "Jammu and Kashmir",
+      "constitutional change",
+      "rights"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "The constitutional status and statehood of Jammu and Kashmir were changed under extraordinary security and political constraints.",
+    "overview": [
+      "This sample demonstrates the need to assess a constitutional change, the process used to enact it and its human consequences as distinct questions."
+    ],
+    "detail": [
+      "The final record should use precise legal language and a dated chronology of the constitutional, legislative, security and electoral developments."
+    ],
+    "impact": [
+      "Demonstration concern: federal process and representative consent.",
+      "Demonstration concern: restrictions on communication and political activity.",
+      "Longer-run security, governance and rights outcomes require careful evidence."
+    ],
+    "judgement": {
+      "score": -1,
+      "label": "A contested end pursued through damaging means",
+      "rationale": [
+        "The provisional score gives substantial weight to federalism, consent and civil liberty during constitutional change, independently of arguments about the prior arrangement."
+      ],
+      "countercase": [
+        "The strongest countercase argues that fuller constitutional integration removed an anomalous arrangement and could improve governance, rights and development over time."
+      ],
+      "confidence": "low",
+      "values": [
+        "federalism",
+        "consent",
+        "civil liberty",
+        "security"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "editor-placeholder"
+    },
+    "sources": [
+      {
+        "title": "Major reforms since 2014",
+        "publisher": "ThePrint",
+        "sourceType": "reported overview",
+        "url": "https://theprint.in/india/article-370-farm-laws-nep-modi-govt-plans-booklet-to-showcase-major-reforms-since-2014/575116/"
+      },
+      {
+        "title": "Legislative Wrap — 17th Lok Sabha",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative review",
+        "url": "https://prsindia.org/sessiontrack/budget-session-2024/legislative-wrap"
+      }
+    ],
+    "changeId": "chg-2026-11-09-006"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "jal-jeevan-mission",
+    "title": "Jal Jeevan Mission",
+    "date": "2019-08-15",
+    "theme": "uncategorized",
+    "tags": [
+      "tap water",
+      "rural infrastructure",
+      "public health"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "A centrally supported mission sought functional household tap-water connections across rural India.",
+    "overview": [
+      "A centrally supported mission sought functional household tap-water connections across rural India.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Economic Survey 2023-24 — Social Sector",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2024-25/economicsurvey/doc/echapter.pdf"
+      }
+    ],
+    "changeId": "chg-2026-11-09-114"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "corporate-tax-rate-cut",
+    "title": "Corporate tax rate cut",
+    "date": "2019-09-20",
+    "theme": "uncategorized",
+    "tags": [
+      "corporate tax",
+      "investment",
+      "fiscal policy"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "An ordinance reduced the base domestic corporate-tax rate and introduced a lower rate for qualifying new manufacturers.",
+    "overview": [
+      "An ordinance reduced the base domestic corporate-tax rate and introduced a lower rate for qualifying new manufacturers.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Economic Survey 2022-23 — Industry and Infrastructure",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2023-24/economicsurvey/doc/echapter.pdf"
+      }
+    ],
+    "changeId": "chg-2026-11-09-115"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "citizenship-amendment-act-and-rules",
+    "title": "Citizenship Amendment Act and 2024 rules",
+    "date": "2019-12-12",
+    "theme": "uncategorized",
+    "tags": [
+      "citizenship",
+      "religion",
+      "migration"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "The Act created a religion-specific accelerated citizenship route for specified migrants from Afghanistan, Bangladesh and Pakistan; implementation rules followed in 2024.",
+    "overview": [
+      "The Act created a religion-specific accelerated citizenship route for specified migrants from Afghanistan, Bangladesh and Pakistan; implementation rules followed in 2024.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Legislative Wrap — 17th Lok Sabha",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative review",
+        "url": "https://prsindia.org/sessiontrack/budget-session-2024/legislative-wrap"
+      },
+      {
+        "title": "Government notifies Citizenship Amendment Rules",
+        "publisher": "ThePrint",
+        "sourceType": "reported news",
+        "url": "https://theprint.in/india/modi-govt-to-notify-rules-for-citizenship-law-caa-today/1996655/"
+      }
+    ],
+    "changeId": "chg-2026-11-09-116"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "production-linked-incentive-schemes",
+    "title": "Production-linked incentive schemes",
+    "date": "2020-04-01",
+    "theme": "uncategorized",
+    "tags": [
+      "PLI",
+      "manufacturing",
+      "industrial policy"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "Sector-specific incentives tied support to incremental production as part of a broader manufacturing and supply-chain strategy.",
+    "overview": [
+      "Sector-specific incentives tied support to incremental production as part of a broader manufacturing and supply-chain strategy.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Economic Survey 2022-23 — Industry and Infrastructure",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2023-24/economicsurvey/doc/echapter.pdf"
+      }
+    ],
+    "changeId": "chg-2026-11-09-119"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "national-education-policy-2020",
+    "title": "National Education Policy 2020",
+    "date": "2020-07-29",
+    "theme": "uncategorized",
+    "tags": [
+      "education",
+      "schools",
+      "universities"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "The policy proposed a new school structure, multidisciplinary higher education, revised language and assessment approaches, and institutional restructuring.",
+    "overview": [
+      "The policy proposed a new school structure, multidisciplinary higher education, revised language and assessment approaches, and institutional restructuring.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Major reforms since 2014",
+        "publisher": "ThePrint",
+        "sourceType": "reported overview",
+        "url": "https://theprint.in/india/article-370-farm-laws-nep-modi-govt-plans-booklet-to-showcase-major-reforms-since-2014/575116/"
+      }
+    ],
+    "changeId": "chg-2026-11-09-118"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "farm-laws-2020-and-repeal",
+    "title": "2020 farm laws and repeal",
+    "date": "2020-09-27",
+    "theme": "economy",
+    "tags": [
+      "agriculture",
+      "farmers",
+      "markets",
+      "consultation"
+    ],
+    "significance": "medium",
+    "status": "draft",
+    "summary": "Market-oriented agricultural laws were enacted rapidly and later repealed after sustained protest, exposing both reform needs and failures of consultation.",
+    "overview": [
+      "This sample treats policy content, legislative process, protest response and repeal as one connected episode while allowing later separation into multiple records."
+    ],
+    "detail": [
+      "The final entry should represent the stated case for reform, specific statutory changes, distributional risks and the decision-making process."
+    ],
+    "impact": [
+      "Demonstration concern: inadequate consultation and trust.",
+      "Demonstration question: whether the policy design addressed real market constraints.",
+      "Demonstration outcome: repeal left the underlying reform problem unresolved."
+    ],
+    "judgement": {
+      "score": -1,
+      "label": "Reform case undermined by process and design",
+      "rationale": [
+        "The illustrative score does not reject agricultural market reform; it penalises weak consultation, unresolved distributional risks and the political failure that culminated in repeal."
+      ],
+      "countercase": [
+        "The countercase argues that entrenched interests made disruptive reform unavoidable and that the laws expanded farmer choice."
+      ],
+      "confidence": "low",
+      "values": [
+        "participation",
+        "livelihood security",
+        "economic reform"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "editor-placeholder"
+    },
+    "sources": [
+      {
+        "title": "Major reforms since 2014",
+        "publisher": "ThePrint",
+        "sourceType": "reported overview",
+        "url": "https://theprint.in/india/article-370-farm-laws-nep-modi-govt-plans-booklet-to-showcase-major-reforms-since-2014/575116/"
+      },
+      {
+        "title": "Legislative Wrap — 17th Lok Sabha",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative review",
+        "url": "https://prsindia.org/sessiontrack/budget-session-2024/legislative-wrap"
+      }
+    ],
+    "changeId": "chg-2026-11-09-007"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "four-labour-codes",
+    "title": "Four labour codes",
+    "date": "2020-09-28",
+    "theme": "uncategorized",
+    "tags": [
+      "labour",
+      "social security",
+      "industrial relations"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "Four codes consolidated 29 central labour laws and changed rules covering wages, industrial relations, social security and workplace safety; the Union brought them into effect on 21 November 2025.",
+    "overview": [
+      "Four codes consolidated 29 central labour laws and changed rules covering wages, industrial relations, social security and workplace safety; the Union brought them into effect on 21 November 2025.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "How the new labour codes were passed and what they change",
+        "publisher": "ThePrint",
+        "sourceType": "analysis",
+        "url": "https://theprint.in/opinion/how-modi-govts-3-new-labour-codes-were-passed-in-parliament-and-the-changes-they-will-bring/509385/"
+      },
+      {
+        "title": "Legislative Wrap — 17th Lok Sabha",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative review",
+        "url": "https://prsindia.org/sessiontrack/budget-session-2024/legislative-wrap"
+      },
+      {
+        "title": "Government makes four Labour Codes effective from 21 November 2025",
+        "publisher": "Press Information Bureau",
+        "sourceType": "official notification summary",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2194018"
+      }
+    ],
+    "changeId": "chg-2026-11-09-117"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "information-technology-rules-2021",
+    "title": "Information Technology Rules 2021",
+    "date": "2021-02-25",
+    "theme": "uncategorized",
+    "tags": [
+      "internet",
+      "platform regulation",
+      "speech"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "New intermediary and digital-media rules expanded due-diligence, grievance, traceability and government oversight requirements.",
+    "overview": [
+      "New intermediary and digital-media rules expanded due-diligence, grievance, traceability and government oversight requirements.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Legislative Wrap — 17th Lok Sabha",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative review",
+        "url": "https://prsindia.org/sessiontrack/budget-session-2024/legislative-wrap"
+      }
+    ],
+    "changeId": "chg-2026-11-09-120"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "pm-gati-shakti-and-capex-push",
+    "title": "PM Gati Shakti and the public-capex push",
+    "date": "2021-10-13",
+    "theme": "uncategorized",
+    "tags": [
+      "Gati Shakti",
+      "capital expenditure",
+      "infrastructure"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "A GIS-based national master plan was paired with higher central capital outlay to coordinate road, rail, port, aviation and logistics investment.",
+    "overview": [
+      "A GIS-based national master plan was paired with higher central capital outlay to coordinate road, rail, port, aviation and logistics investment.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Economic Survey 2023-24 — Infrastructure",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2024-25/economicsurvey/doc/eschapter/echap12.pdf"
+      },
+      {
+        "title": "How Modi government's spending priorities differ",
+        "publisher": "ThePrint",
+        "sourceType": "data analysis",
+        "url": "https://theprint.in/economy/rising-capex-share-falling-subsidy-burden-how-modi-govts-spending-priorities-differ-from-upas/1896931/"
+      },
+      {
+        "title": "Economic Survey 2025-26",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/economicsurvey/"
+      }
+    ],
+    "changeId": "chg-2026-11-09-121"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "india-semiconductor-mission",
+    "title": "India Semiconductor Mission",
+    "date": "2021-12-15",
+    "theme": "uncategorized",
+    "tags": [
+      "semiconductors",
+      "industrial policy",
+      "technology"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "A fiscal-support programme sought to establish domestic semiconductor and display manufacturing and design capacity.",
+    "overview": [
+      "A fiscal-support programme sought to establish domestic semiconductor and display manufacturing and design capacity.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Economic Survey 2022-23 — Industry and Infrastructure",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2023-24/economicsurvey/doc/echapter.pdf"
+      }
+    ],
+    "changeId": "chg-2026-11-09-124"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "air-india-privatisation",
+    "title": "Air India privatisation",
+    "date": "2022-01-27",
+    "theme": "uncategorized",
+    "tags": [
+      "privatisation",
+      "aviation",
+      "public sector"
+    ],
+    "significance": "medium",
+    "status": "draft",
+    "summary": "Control of Air India transferred to the Tata group after a competitive sale process, ending decades of central-government ownership.",
+    "overview": [
+      "Control of Air India transferred to the Tata group after a competitive sale process, ending decades of central-government ownership.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Economic Survey 2022-23 — Industry and Infrastructure",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/budget2023-24/economicsurvey/doc/echapter.pdf"
+      }
+    ],
+    "changeId": "chg-2026-11-09-122"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "agnipath-military-recruitment",
+    "title": "Agnipath military recruitment scheme",
+    "date": "2022-06-14",
+    "theme": "uncategorized",
+    "tags": [
+      "defence",
+      "recruitment",
+      "pensions"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "The armed forces shifted most new non-officer recruitment to four-year Agniveer terms, with a minority retained for longer service.",
+    "overview": [
+      "The armed forces shifted most new non-officer recruitment to four-year Agniveer terms, with a minority retained for longer service.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Major reforms since 2014",
+        "publisher": "ThePrint",
+        "sourceType": "reported overview",
+        "url": "https://theprint.in/india/article-370-farm-laws-nep-modi-govt-plans-booklet-to-showcase-major-reforms-since-2014/575116/"
+      }
+    ],
+    "changeId": "chg-2026-11-09-123"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "digital-personal-data-protection-act",
+    "title": "Digital Personal Data Protection Act",
+    "date": "2023-08-11",
+    "theme": "uncategorized",
+    "tags": [
+      "privacy",
+      "data protection",
+      "technology"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "India enacted a general law for processing digital personal data, with duties, consent rules, exemptions and a new enforcement board.",
+    "overview": [
+      "India enacted a general law for processing digital personal data, with duties, consent rules, exemptions and a new enforcement board.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Significant laws passed in 2023",
+        "publisher": "ThePrint",
+        "sourceType": "legislative review",
+        "url": "https://theprint.in/india/governance/new-criminal-laws-data-protection-to-womens-reservation-10-significant-laws-passed-in-2023/1903639/"
+      },
+      {
+        "title": "Legislative Wrap — 17th Lok Sabha",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative review",
+        "url": "https://prsindia.org/sessiontrack/budget-session-2024/legislative-wrap"
+      }
+    ],
+    "changeId": "chg-2026-11-09-125"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "womens-reservation-amendment",
+    "title": "Women's reservation constitutional amendment",
+    "date": "2023-09-28",
+    "theme": "uncategorized",
+    "tags": [
+      "women",
+      "representation",
+      "constitution"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "The 106th Constitutional Amendment provides one-third reservation for women in the Lok Sabha and state assemblies after a future census and delimitation.",
+    "overview": [
+      "The 106th Constitutional Amendment provides one-third reservation for women in the Lok Sabha and state assemblies after a future census and delimitation.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Significant laws passed in 2023",
+        "publisher": "ThePrint",
+        "sourceType": "legislative review",
+        "url": "https://theprint.in/india/governance/new-criminal-laws-data-protection-to-womens-reservation-10-significant-laws-passed-in-2023/1903639/"
+      },
+      {
+        "title": "Legislative Wrap — 17th Lok Sabha",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative review",
+        "url": "https://prsindia.org/sessiontrack/budget-session-2024/legislative-wrap"
+      }
+    ],
+    "changeId": "chg-2026-11-09-127"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "telecommunications-act-2023",
+    "title": "Telecommunications Act 2023",
+    "date": "2023-12-24",
+    "theme": "uncategorized",
+    "tags": [
+      "telecom",
+      "spectrum",
+      "surveillance"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "The Act replaced older telegraph laws and recast authorisation, spectrum assignment, interception and user-protection rules.",
+    "overview": [
+      "The Act replaced older telegraph laws and recast authorisation, spectrum assignment, interception and user-protection rules.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Significant laws passed in 2023",
+        "publisher": "ThePrint",
+        "sourceType": "legislative review",
+        "url": "https://theprint.in/india/governance/new-criminal-laws-data-protection-to-womens-reservation-10-significant-laws-passed-in-2023/1903639/"
+      },
+      {
+        "title": "Legislative Wrap — 17th Lok Sabha",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative review",
+        "url": "https://prsindia.org/sessiontrack/budget-session-2024/legislative-wrap"
+      }
+    ],
+    "changeId": "chg-2026-11-09-128"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "new-criminal-codes",
+    "title": "New criminal codes",
+    "date": "2023-12-25",
+    "theme": "uncategorized",
+    "tags": [
+      "criminal law",
+      "policing",
+      "courts"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "Three laws replaced the Indian Penal Code, Code of Criminal Procedure and Indian Evidence Act and came into force in July 2024.",
+    "overview": [
+      "Three laws replaced the Indian Penal Code, Code of Criminal Procedure and Indian Evidence Act and came into force in July 2024.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Significant laws passed in 2023",
+        "publisher": "ThePrint",
+        "sourceType": "legislative review",
+        "url": "https://theprint.in/india/governance/new-criminal-laws-data-protection-to-womens-reservation-10-significant-laws-passed-in-2023/1903639/"
+      },
+      {
+        "title": "Legislative Wrap — 17th Lok Sabha",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative review",
+        "url": "https://prsindia.org/sessiontrack/budget-session-2024/legislative-wrap"
+      }
+    ],
+    "changeId": "chg-2026-11-09-126"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "unified-pension-scheme",
+    "title": "Unified Pension Scheme",
+    "date": "2024-08-24",
+    "theme": "uncategorized",
+    "tags": [
+      "pensions",
+      "government employees",
+      "public finance"
+    ],
+    "significance": "medium",
+    "status": "draft",
+    "summary": "The Cabinet approved an assured-pension option for central-government employees within the National Pension System framework.",
+    "overview": [
+      "The Cabinet approved an assured-pension option for central-government employees within the National Pension System framework.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Economic Survey 2025-26",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/economicsurvey/"
+      }
+    ],
+    "changeId": "chg-2026-11-09-129"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "waqf-amendment-act-2025",
+    "title": "Waqf (Amendment) Act 2025",
+    "date": "2025-04-05",
+    "theme": "uncategorized",
+    "tags": [
+      "waqf",
+      "minority affairs",
+      "property"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "Parliament changed the formation, administration, survey and adjudication of waqf property and the composition of waqf bodies.",
+    "overview": [
+      "Parliament changed the formation, administration, survey and adjudication of waqf property and the composition of waqf bodies.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Parliament Session Wrap — Budget Session 2025",
+        "publisher": "PRS Legislative Research",
+        "sourceType": "legislative review",
+        "url": "https://prsindia.org/sessiontrack/budget-session-2025/session-wrap"
+      }
+    ],
+    "changeId": "chg-2026-11-09-130"
+  },
+  {
+    "schemaVersion": 1,
+    "slug": "income-tax-act-2025",
+    "title": "Income-tax Act 2025",
+    "date": "2025-08-21",
+    "theme": "uncategorized",
+    "tags": [
+      "income tax",
+      "tax administration",
+      "legislation"
+    ],
+    "significance": "large",
+    "status": "draft",
+    "summary": "Parliament replaced the 1961 Income-tax Act with a reorganised statute while broadly retaining the existing tax structure.",
+    "overview": [
+      "Parliament replaced the 1961 Income-tax Act with a reorganised statute while broadly retaining the existing tax structure.",
+      "This is an initial inventory record. Scope, chronology and affected groups still require a deeper editorial pass."
+    ],
+    "detail": [
+      "The record currently establishes the action and its broad mechanism. Later research should separate the original decision, amendments, implementation and present legal status."
+    ],
+    "impact": [
+      "Outcome, distributional-effect and implementation evidence has not yet been assessed for this inventory entry."
+    ],
+    "judgement": {
+      "score": 0,
+      "label": "Awaiting editor judgement",
+      "rationale": [
+        "No value judgement has been assigned during the action-inventory stage."
+      ],
+      "countercase": [
+        "The strongest supporting and critical cases will be recorded after the evidence review."
+      ],
+      "confidence": "low",
+      "values": [
+        "research pending"
+      ],
+      "assessedAt": "2026-11-09",
+      "assessedBy": "research-inventory"
+    },
+    "sources": [
+      {
+        "title": "Economic Survey 2025-26",
+        "publisher": "Ministry of Finance",
+        "sourceType": "official report",
+        "url": "https://www.indiabudget.gov.in/economicsurvey/"
+      }
+    ],
+    "changeId": "chg-2026-11-09-131"
   }
 ]

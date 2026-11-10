@@ -7,9 +7,9 @@ const detail = readFileSync(new URL("../dist/actions/demonetisation-2016/index.h
 const styles = readFileSync(new URL("../dist/assets/styles.css", import.meta.url), "utf8");
 const actions = JSON.parse(readFileSync(new URL("../content/actions.json", import.meta.url), "utf8"));
 
-test("homepage contains the action map and prototype warning", () => {
+test("homepage contains the action map and research warning", () => {
   assert.match(home, /The action map/);
-  assert.match(home, /illustrative design data/);
+  assert.match(home, /Research inventory/);
   assert.match(home, /data-action-card/);
   assert.match(home, /<meta property="og:image" content="https:\/\/[^\"]+\/og\.png">/);
   assert.doesNotMatch(home, /Editorial method/);
@@ -50,5 +50,7 @@ test("homepage exposes combinable term, theme and judgement filters", () => {
   assert.match(home, /data-term-filter="term-3">3rd term <small>2024–<\/small>/);
   assert.match(home, /data-theme-filter="economy"/);
   assert.match(home, /data-score-filter="-2"/);
+  assert.match(home, /data-score-filter="0"/);
+  assert.match(home, /data-theme-filter="uncategorized"/);
   assert.match(home, /data-action-card[^>]*data-term="term-1"[^>]*data-score="/);
 });
